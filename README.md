@@ -8,6 +8,7 @@
 [![cstef](https://img.shields.io/static/v1?label=cstef.dev&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://cstef.dev)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/cstef._/)
 [![admin@cstef.dev](https://img.shields.io/static/v1?label=admin@cstef.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:admin@cstef.dev)
+[![wakatime](https://wakatime.com/badge/user/d59f9f2c-97f4-4537-9693-8b610e14cb9f.svg?style=flat-square)](https://wakatime.com/@d59f9f2c-97f4-4537-9693-8b610e14cb9f)
   
 
 👨‍💻 Software Developer   
