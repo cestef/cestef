@@ -13,7 +13,12 @@
 
 👨‍💻 Software Developer   
 👨‍🎓 Studying at High School  
-🚧 **Current Project:** [Webscraper Exporter](https://github.com/cestef/webscraper-exporter)  
+🚧 **Current Project:** [Webscraper Exporter](https://github.com/cestef/webscraper-exporter)
 
+#### Things I can do
+[![What can I do ?](https://skillicons.dev/icons?i=ts,react,unity,cs,graphql,mongodb,openstack,prometheus)](https://cstef.dev)
+
+#### Things I'm learning
+[![What am I learning ?](https://skillicons.dev/icons?i=rust,cpp,tensorflow)](https://cstef.dev)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cestef&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
