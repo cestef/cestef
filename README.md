@@ -15,10 +15,10 @@
 👨‍🎓 Studying at High School  
 🚧 **Current Project:** [MeshLink](https://github.com/cestef/meshlink)
 
-#### Things I can do
+#### Languages I know
 [![What can I do ?](https://skillicons.dev/icons?i=ts,kotlin,cs,rust)](https://cstef.dev)
 
-#### Things I'm learning
+#### Languages I'm learning
 [![What am I learning ?](https://skillicons.dev/icons?i=c)](https://cstef.dev)
 
 
