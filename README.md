@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cestef&layout=compact&title_color=606060&text_color=606060&bg_color=00000000&theme=dark&hide_border=true">
     
 
-### Hi there I'm cstef 🍓
+### Hi there I'm cstef !
 
 
 [![cstef](https://img.shields.io/static/v1?label=cstef.dev&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://cstef.dev)
