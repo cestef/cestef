@@ -16,9 +16,9 @@
 🚧 **Current Project:** [MeshLink](https://github.com/cestef/meshlink)
 
 #### Things I can do
-[![What can I do ?](https://skillicons.dev/icons?i=ts,react,unity,cs,graphql,mongodb,openstack,prometheus)](https://cstef.dev)
+[![What can I do ?](https://skillicons.dev/icons?i=ts,kotlin,cs,rust)](https://cstef.dev)
 
 #### Things I'm learning
-[![What am I learning ?](https://skillicons.dev/icons?i=rust,cpp,tensorflow)](https://cstef.dev)
+[![What am I learning ?](https://skillicons.dev/icons?i=c)](https://cstef.dev)
 
 
