@@ -10,8 +10,6 @@
 [![wakatime](https://wakatime.com/badge/user/d59f9f2c-97f4-4537-9693-8b610e14cb9f.svg?style=flat-square)](https://wakatime.com/@d59f9f2c-97f4-4537-9693-8b610e14cb9f)
   
 
-👨‍💻 Software Developer   
-👨‍🎓 Studying at High School  
 🚧 **Current Project:** [MeshLink](https://github.com/cestef/meshlink)
 
 #### Languages I know
