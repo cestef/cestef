@@ -12,10 +12,4 @@
 
 🚧 **Current Project:** [rwalk](https://github.com/cestef/rwalk)
 
-#### Languages I know
 [![What can I do ?](https://skillicons.dev/icons?i=ts,kotlin,cs,rust)](https://cstef.dev)
-
-#### Languages I'm learning
-[![What am I learning ?](https://skillicons.dev/icons?i=c)](https://cstef.dev)
-
-
