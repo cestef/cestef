@@ -12,4 +12,4 @@
 
 🚧 **Current Project:** [rwalk](https://github.com/cestef/rwalk)
 
-[![What can I do ?](https://skillicons.dev/icons?i=ts,kotlin,cs,rust)](https://cstef.dev)
+[![What can I do ?](https://skillicons.dev/icons?i=rust,ts,py,kotlin,cs)](https://cstef.dev)
