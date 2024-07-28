@@ -10,6 +10,6 @@
 [![wakatime](https://wakatime.com/badge/user/d59f9f2c-97f4-4537-9693-8b610e14cb9f.svg?style=flat-square)](https://wakatime.com/@d59f9f2c-97f4-4537-9693-8b610e14cb9f)
   
 
-🚧 **Current Project:** [rwalk](https://github.com/cestef/rwalk)
+🚧 **Current Project:** [uses.ink](https://github.com/uses-ink/uses.ink)
 
 [![What can I do ?](https://skillicons.dev/icons?i=rust,ts,py,kotlin,cs)](https://cstef.dev)
